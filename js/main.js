@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Rindu saya eh?XD').split('')
+    const titles = ('SPE SUH BELI BULAT MERAH NI').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
